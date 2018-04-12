@@ -1,3 +1,4 @@
+#include <bits/stdc++.h>
 using namespace std;
 class character
 {
@@ -17,4 +18,4 @@ class character
   string nemesis_name; //for a specific version of a nemesis
   string nemesis_identity; //for all versions of a nemesis
   string nemesis_team; //for a group of nemeses
-}
+};
