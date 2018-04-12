@@ -7,8 +7,8 @@ class character
   //who is this person, and where are they from
   string title; //Superhero name, like Iron Man, Green Goblin, or Doctor Doom
   string identity; //Actual name, like Tony Stark, Norman Osborn, Harry Osborn, or Victor Von Doom
-  string era = "n/a"; //The time this version of the character is from
   string franchise; //This character's home franchise, like Iron Man, Spier-Man, Fantastic Four, Avengers, or X-Men
+  string era; //The time this version of the character is from
   
   //what can this person do
   //abilities get some classes
