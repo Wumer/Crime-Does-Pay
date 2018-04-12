@@ -1,5 +1,4 @@
 #include character.h
-using namespace std;
 class villain
 {
   private:
