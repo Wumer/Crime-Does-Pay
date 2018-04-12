@@ -2,7 +2,7 @@
 using namespace std;
 class character
 {
-  private:
+  protected:
   
   //who is this person, and where are they from
   string title; //Superhero name, like Iron Man, Green Goblin, or Doctor Doom
