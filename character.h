@@ -14,6 +14,7 @@ class character
   //abilities get some classes
   //status effects/buffs/debuffs get a class
   
+  //Move to own subclass of this class
   //who does this person fight
   string nemesis_name; //for a specific version of a nemesis
   string nemesis_identity; //for all versions of a nemesis
